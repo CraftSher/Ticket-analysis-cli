@@ -1,0 +1,26 @@
+ticket_id,client_name,subject,priority,status,date
+1,Ali,VPN not working,High,Open,2024-12-01
+2,Sara,Cannot login,Medium,Closed,2025-09-03
+3,John,Printer offline,Low,Open,2024-12-05
+4,Maria,Software installation failed,High,Open,2024-12-06
+5,David,Email not syncing,Medium,Closed,2024-12-07
+6,Emily,Network connection issues,High,Open,2024-12-08
+7,Michael,Forgotten password,Low,Open,2024-10-09
+8,Olivia,Application crashing,Medium,Closed,2024-12-10
+9,William,Slow computer performance,High,Open,2024-12-11
+10,Sophia,Monitor flickering,Low,Closed,2024-12-12
+11,James,Account lockout,Medium,Open,2024-12-13
+12,Ava,File access denied,High,Open,2024-10-14
+13,Robert,Browser not responding,Low,Open,2024-12-15
+14,Isabella,Keyboard not working,Medium,Closed,2024-12-16
+15,Joseph,Corrupted files,High,Open,2024-11-17
+16,Mia,No internet access,Medium,Open,2024-09-18
+17,Charles,Backup failed,Low,Closed,2024-12-19
+18,Charlotte,New user setup,Medium,Open,2024-12-20
+19,Thomas,Software update issues,High,Open,2024-12-21
+20,Amelia,Mobile device not connecting,Low,Closed,2024-12-22
+21,Daniel,Broken mouse,Medium,Open,2024-12-23
+22,Harper,Unable to print,High,Open,2024-12-24
+23,Henry,VPN disconnecting frequently,Medium,Closed,2024-12-25
+24,Evelyn,License key expired,Low,Open,2024-12-26
+25,Samuel,Server unreachable,High,Open,2025-11-27
