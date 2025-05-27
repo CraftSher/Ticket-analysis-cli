@@ -1,3 +1,5 @@
+![Project Banner](Data/banner.png)
+
 # Ticket Analyzer CLI
 
 A command-line application for analyzing customer support tickets from a CSV file.
