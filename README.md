@@ -1,5 +1,9 @@
 ![Project Banner](Data/banner.png)
 
+![Python](https://img.shields.io/badge/python-3.7%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-Active-brightgreen)
+
 # Ticket Analyzer CLI
 
 A command-line application for analyzing customer support tickets from a CSV file.
